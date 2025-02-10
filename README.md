@@ -40,7 +40,7 @@ Responsible for fetching data from APIs or local storage using repositories.
 
 1️⃣ **Clone the Repository**
 
-    git clone https://github.com/yourusername/MealApp.git](https://github.com/shashidev/MealApp.git)
+    git clone https://github.com/shashidev/MealApp.git
     cd MealApp
 
 2️⃣ **Install Dependencies**
